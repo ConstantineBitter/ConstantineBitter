@@ -3,6 +3,9 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-white?logo=python&label=py&color=white)
 
+🪬About Me:
+
+![ConstantineBitter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConstantineBitter&show_icons=true&theme=radical)
 
 🚀 Constantine Bitter   
 
