@@ -3,3 +3,15 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-white?logo=python&label=py&color=white)
 
+
+🚀 Constantin Bitter   
+
+💡 **Projects:**
+Coming soon...
+
+- **Languages:** Python
+- **Frameworks:** PyCharm
+- **Tools:** GitHub
+
+🏆 **Achievements/Co-Curricular:**
+Coming soon...
