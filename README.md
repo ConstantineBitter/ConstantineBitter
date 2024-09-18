@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/py-python-white?logo=python&label=py&color=white)
 
 
-🚀 Constantin Bitter   
+🚀 Constantine Bitter   
 
 💡 **Projects:**
 Coming soon...
